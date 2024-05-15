@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 👨‍🎓 I'm currently an undergraduate student of XJTLU.
-- 📚 I'm currently doing research on Meta Learning based Few-shot Fault Diagnosis.
-- 📝 I'm reconstructing my personal website, with
-  - a blog site *in Chinese* (under development: *yeefay.top*)
+- 📚 I'm going to continue my study in Computer Science at *the University of Edinburgh*!
+- 📝 I'm reconstructing my personal website, including
+  - a blog site in *Chinese* (already accessible at: yeefay.top) to share my experiences and thoughts (maybe)
   - a academic resume page (future plan)
 
 <!--
