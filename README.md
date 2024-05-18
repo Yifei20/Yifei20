@@ -6,4 +6,6 @@
   - a blog site in *Chinese* (already accessible at: [yeefay.top](https://yeefay.top) to share my experiences and thoughts (maybe)
   - a academic resume page (future plan)
 
+<!--
 ![Yifei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yifei20&hide=issues&count_private=true&show_icons=true)
+-->
