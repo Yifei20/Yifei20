@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 👨‍🎓 I've just graduated from XJTLU receiving my *Bachelor Degree* with *First Class Honours*.
-- 📚 I'm going to continue my study in *Artificial Intelligence* at *the University of Edinburgh*!
+- 📚 I'm currently doing my Masters's degree in Artificial Intelligence at the University of Edinburgh.
 - 📝 I'm reconstructing my personal website, including
   - a blog site in *Chinese* (already accessible at: [yeefay.top](https://yeefay.top)) to share my experiences and thoughts
   - a academic resume page (future plan)
